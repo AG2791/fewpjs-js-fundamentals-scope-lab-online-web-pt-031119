@@ -1,4 +1,4 @@
-animal = ""
+let animal = ""
 
 function myAnimal() {
   return animal
@@ -22,7 +22,6 @@ function add2(n) {
 
 
 
-Learn more or give us feedback
 const animal = 'dog'
 
 function myAnimal() {
